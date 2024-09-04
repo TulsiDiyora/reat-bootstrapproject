@@ -1,0 +1,27 @@
+.d-img img{
+    width: 265px;
+    height: 265px;
+   
+}
+.d-img img {
+    transition-duration: 4s;
+    margin: 0 auto;
+    display: block;
+}
+.d-img img:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    z-index: 0;
+}
+.d-content h4{
+    color: #7E4C4F;
+    font-family: 'Fredoka', sans-serif;
+    margin-bottom: 30px;
+    transition: all .3s linear;
+}
+.d-content h4:hover{
+    color: #F6AB4A;
+  
+}
+

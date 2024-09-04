@@ -1,0 +1,23 @@
+.cat-banner{
+    background-image: url('../../assets/catbanner.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.cat-text{
+    color: #868080;
+}
+.cat-text span{
+    color: #F6AB4A;
+    font-size: 20px;
+}
+.cat-banner1{
+    padding: 160px 0px;
+}
+.cat-food .c-img img {
+    padding-left: 150px; 
+  }
+  
+  .cat-food .cat-text {
+    padding-right: 30px; 
+  }
+  

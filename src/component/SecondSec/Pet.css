@@ -1,0 +1,22 @@
+.title span{
+    font-family: "Pacifico", cursive;
+    font-size: 20px;
+    color: #F6AB4A;
+}
+.title h2{
+    color: #7E4C4F;
+    font-family: "Fredoka", sans-serif;
+    font-size: 46px;
+}
+.dog-box img{
+    width: 343px;
+    height: 352px;
+    margin-top: 70px;
+    transition: all .3s linear;
+}
+.dog-box img:hover {
+    box-shadow: 0 30px 30px #d3d3d3;
+}
+.dog-content a{
+    font-family: "Fredoka", sans-serif;
+}

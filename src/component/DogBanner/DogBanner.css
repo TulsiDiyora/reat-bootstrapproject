@@ -1,0 +1,29 @@
+.dog-banner{
+    background-image: url('../../assets/banner2.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dog-banner {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    margin-bottom: 80px;
+    position: relative;
+    z-index: 1;
+}
+.dog-banner::after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: -999;
+    background: rgb(0, 0, 0);
+    opacity: .40;
+}
+.dog-title h1{
+  font-family: 'Fredoka', sans-serif;
+  font-size: 46px;
+}

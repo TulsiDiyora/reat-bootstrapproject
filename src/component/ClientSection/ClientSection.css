@@ -1,0 +1,8 @@
+.icon-img{
+    filter: grayscale(100%);
+    transition: all .3s linear;
+    cursor: pointer;
+}
+.icon-img:hover{
+    filter: grayscale(0%);
+}

@@ -1,0 +1,56 @@
+.th-content{
+    margin-left: 50px;
+}
+.th-content .th-cart .admin > span, .th-content .th-cart .date > span, .th-content .th-cart .comment > span{
+    color:#868080;
+    fill: #868080;
+    padding-right: 9px;
+    padding-left: 9px;
+    transition: all .3s linear;
+}
+.th-content .th-cart .admin > span:before{
+    content: "";
+    position: absolute;
+    background: #f6f4f0;
+    width: 170px;
+    height: 27px;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+.th-content .th-cart .admin > span:after {
+    content: "";
+    position: absolute;
+    background: #f6ab4a;
+    width: 0;
+    height: 100%;
+    right: 0;
+    top: 0;
+    z-index: -1;
+    transition: all .3s linear;
+}
+.th-content .th-cart .comment > span:before{
+    content: "";
+    position: absolute;
+    background: #f6f4f0;
+    width: 170px;
+    height: 27px;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+.t-content h3{
+    color: #7e4c4f;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: "Fredoka", sans-serif;
+}
+.t-content p{
+color: #868080;
+}
+.read-btn a{
+    color: #f6ab4a;
+    font-weight: 700;
+    font-family: "Fredoka", sans-serif;
+    font-size: 18px;
+}

@@ -1,0 +1,16 @@
+.s-form > .search-bar {
+    border-radius: 30px;
+    padding: 12px 60px 12px 30px;
+    background-color: #F6AB4A;
+    width: 388px;
+}
+.s-btn {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background-color: #7E4C4F;
+}
+.header-icon{
+    font-size: 20px;
+}

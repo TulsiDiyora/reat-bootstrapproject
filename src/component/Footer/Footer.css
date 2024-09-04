@@ -1,0 +1,43 @@
+.footer-bg{
+    background-color: #F7F7F7;
+    padding: 52px 100px 40px 100px;
+}
+ul, li{
+    text-decoration: none;
+    list-style: none;
+}
+.f-content h2{
+    color: #7E4C4F;
+    font-size: 24px;
+    font-family: "Fredoka", sans-serif;
+}
+.f-content p{
+  color: #868080;
+}
+
+.f-icon ul{
+    gap: 20px;
+    padding: 0px;
+}
+.f-icon > ul > li > a{
+    color: #868080;
+}
+.fc ul{
+    padding: 0;
+    
+}
+.fc li {
+    margin-top: 5px;
+    
+}
+.fc a {
+  color: #868080;
+  transition: all .3s linear;
+}
+.fc a:hover {
+    color: #F6AB4A;
+}
+.fc i{
+    font-size: 15px;
+
+}

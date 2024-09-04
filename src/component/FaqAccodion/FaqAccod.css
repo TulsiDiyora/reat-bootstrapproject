@@ -1,0 +1,32 @@
+.transparent-item .accordion-button:not(.collapsed) {
+    background-color: #F6AB4A;
+    /* padding: 22px 30px; */
+    font-size: 18px;
+    color: white;
+    font-weight: 700;
+    box-shadow: none;
+    border-radius: 0;
+    font-family: 'Fredoka', sans-serif;
+}
+.accordion-header {
+    background-color: #F6AB4A;
+    padding: 10px 30px;
+    font-size: 18px;
+    color: white;
+    font-weight: 700;
+    box-shadow: none;
+    border-radius: 0;
+    font-family: 'Fredoka', sans-serif;
+}
+.accordion-body {
+    padding: 20px 65px 20px 30px;
+    font-size: 15px;
+    color: #868080  ;
+    font-weight: 500;
+    box-shadow: none;
+    border-radius: 0;
+    border: none;
+}
+.transparent-item .accordion-body {
+    background-color: #E8E8E8;
+}

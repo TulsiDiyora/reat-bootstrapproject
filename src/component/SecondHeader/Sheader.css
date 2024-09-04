@@ -1,0 +1,10 @@
+#basic-navbar-nav > .navbar-nav > .nav-link {
+    color: white;
+    padding: 8px 20px;
+    font-size: 18px;
+}
+#basic-nav-dropdown {
+    color: white;
+    padding: 8px 20px;
+    font-size: 18px;
+}

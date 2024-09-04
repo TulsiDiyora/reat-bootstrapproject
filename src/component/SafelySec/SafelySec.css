@@ -1,0 +1,28 @@
+.safely-img{
+    background: url('../../assets/sec3.webp');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.safely-img .title {
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+.pet-btn a{
+    background-color: #F6AB4A;
+    padding: 15px 30px;
+    color: white;
+    border-radius: 30px;
+    font-size: 14px;
+    border-radius: 30px;
+    font-size: 14px;
+    font-family: 'Fredoka', sans-serif;
+    transition: all .3s linear;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+}
+.pet-btn a:hover {
+    background-color: #7E4C4F;
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2); 
+}
